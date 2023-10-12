@@ -1,0 +1,100 @@
+header {
+    background: url('../images/3562995.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-position: center center;
+}
+
+.color1 {
+    color: #ffc200;
+}
+
+.background1 {
+    background: #ffc200;
+}
+
+.fontfamily1 {
+    font-family:cursive;
+}
+
+.textjustify {
+    text-align: justify;
+}
+
+.imground {
+    border-radius: 50%;
+}
+
+.midbox {
+    width: 150px;
+    height: 150px;
+    border: 3px solid white;
+    border-radius: 100%;
+}
+
+.midbackground1 {
+    background: url('../images/midBackground3.png');
+    background-size: cover;
+}
+
+.midbackground2 {
+    background: url('../images/midBackground4.png');
+    background-size: cover;
+}
+
+.midbackground3 {
+    background: url('../images/midBackground2.png');
+    background-size: cover;
+}
+
+.midbackground4 {
+    background: url('../images/midBackground5.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.midbackground5 {
+    background: url('../images/midBackground6.png');
+    background-size: cover;
+}
+
+footer {
+    background: #303030;
+}
+
+.iconDiv {
+    width: 30px;
+    height: 30px;
+    line-height: 1;
+    font-size: 20px;
+    color: black;
+    padding: 5px;
+    background: white;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.buttonhover:hover {
+    background: none;
+    color: #ffc200;
+    box-shadow: 0px 0px 10px 2px #ffc200;
+}
+
+.bars{
+    color: white !important;
+    font-size: 18px;
+    border: 2px solid white !important;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.collapse:not(.show) {
+    display: block;
+}
+
+.chnageiconcolor:hover  {
+    background: #ffc200;
+}
